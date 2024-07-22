@@ -1,5 +1,5 @@
-- 👋 Hi, my name is Marius Naydenov
-- ___
+ 👋 Hi, my name is Marius Naydenov
+ ___
 .
 
 <!---
